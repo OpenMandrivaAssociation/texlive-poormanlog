@@ -1,6 +1,6 @@
 Name:		texlive-poormanlog
 Version:	63400
-Release:	1
+Release:	2
 Summary:	Logarithms and powers with (almost) 9 digits
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/poormanlog
